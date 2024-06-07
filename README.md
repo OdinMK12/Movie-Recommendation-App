@@ -1,3 +1,6 @@
+![image](https://github.com/OdinMK12/Movie-Recommendation-App/assets/96242979/be160141-19b3-4f9c-aeee-2e9937548ed0)
+
+
 # Movie-Recommendation-App
 In this project I have built a movie recommender system. The algorithm recommends products that are similar to the ones that a user has liked in the past. This similarity (generally cosine similarity) is computed from the data we have about the items as well as the user’s past preferences.
 
